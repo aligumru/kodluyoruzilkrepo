@@ -1,5 +1,5 @@
 # Kodluyoruz Ilk Repo
-Bu repo [Patika.dev](https://github.com/aligumru/kodluyoruzilkrepo) GIT Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo [Patika.dev](https://www.patika.dev/tr) GIT Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ![proje görseli](https://raw.githubusercontent.com/aligumru/kodluyoruzilkrepo/main/VsCode.png)
 
